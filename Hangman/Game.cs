@@ -9,7 +9,7 @@ namespace Hangman
         private readonly string title = "Hangman";
         private readonly string version = "Version 1.0.1";
         private readonly string release = "16/April/2019";
-        private readonly string contact = "www.github.com/aleuts";
+        private readonly string contact = "https://github.com/Plus1XP";
 
         private StringBuilder wordMask;
         private StringBuilder misses;

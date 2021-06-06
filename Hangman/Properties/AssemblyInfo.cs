@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Hangman")]
 [assembly: AssemblyDescription("A classic word game in which you must guess the letters of a secret words in a specified amount of guesses.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("HoL")]
+[assembly: AssemblyCompany("https://github.com/Plus1XP")]
 [assembly: AssemblyProduct("Hangman")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyCopyright("Copyright ©  2019 Plus1XP")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
